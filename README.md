@@ -7,5 +7,5 @@ pH FeatherWing expansion board.
 
 ## Installation
 
-Copy code.py to the CIRCUITPY drive associated with your feather wing.
+Copy the code.py file to the CIRCUITPY drive associated with your feather development board.
 
