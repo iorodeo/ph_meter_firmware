@@ -68,7 +68,7 @@ class PhMeter(object):
 
     def on_calibrate_pH4_pH10(self):
         self.display.show_text('CAL',delay=True)
-        volt = self.volt_sampler.median(self.param['self.cal_num_sample'])
+        volt = self.volt_sampler.median(self.param['cal_num_sample'])
         if self.calibration.ok_for_pH4(volt):
             self.display.show_text('PH4',delay=True)
             self.calibration.set_sample_pH4(volt)
