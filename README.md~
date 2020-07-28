@@ -1,6 +1,6 @@
 # FeatherWing pH Meter Example Firmware 
 
-![alt text](/images/assembled_meter.png)
+![alt text](https://bitbucket.org/iorodeo/ph_meter_firmware/raw/default/images/assembled_meter.png)
 
 Example firmware demostrating how to create a simple pH meter using IO Rodeo's
 pH FeatherWing expansion board. 
